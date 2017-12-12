@@ -1,0 +1,7 @@
+source https://www.nuget.org/api/v2
+
+framework: net451
+nuget FAKE
+nuget FsLab
+nuget SQLProvider
+nuget System.Data.SQLite.Core
